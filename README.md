@@ -6,7 +6,7 @@ Summary of work on the project:
 - Describe the Dataset
 - Get missing Value Information
 - Annotated Correlation Matrices
--  Visulaization
+-  Visualization
 -  Feature Engineering
 -  Models Selection
 -  Comparing the models
